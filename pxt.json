@@ -1,5 +1,5 @@
 {
-    "name": "Whack a mole",
+    "name": "E2_L3_WhackAMole",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -14,12 +14,8 @@
     "testFiles": [
         "test.ts"
     ],
-    "targetVersions": {
-        "target": "5.0.12",
-        "targetId": "microbit"
-    },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

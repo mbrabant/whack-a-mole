@@ -1,31 +1,31 @@
 
-> Open deze pagina op [https://mbrabant.github.io/whack-a-mole/](https://mbrabant.github.io/whack-a-mole/)
+> Open this page at [https://fienspriet.github.io/e2_l3_whackamole/](https://fienspriet.github.io/e2_l3_whackamole/)
 
-## Gebruiken als extensie
+## Use as Extension
 
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/mbrabant/whack-a-mole** en importeren
-
-## Dit project bewerken ![Badge buildstatus](https://github.com/mbrabant/whack-a-mole/workflows/MakeCode/badge.svg)
-
-Om deze repository te bewerken in MakeCode.
+This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/mbrabant/whack-a-mole** en klik op importeren
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/fienspriet/e2_l3_whackamole** and import
 
-## Voorbeeld van blokken
+## Edit this project ![Build status badge](https://github.com/fienspriet/e2_l3_whackamole/workflows/MakeCode/badge.svg)
 
-Deze afbeelding toont de blokcode van de laatste bevestiging in de master.
-Deze afbeelding kan enkele minuten duren om te vernieuwen.
+To edit this repository in MakeCode.
 
-![Een gerenderde weergave van de blokken](https://github.com/mbrabant/whack-a-mole/raw/master/.github/makecode/blocks.png)
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/fienspriet/e2_l3_whackamole** and click import
 
-#### Metadata (gebruikt voor zoeken, rendering)
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/fienspriet/e2_l3_whackamole/raw/master/.github/makecode/blocks.png)
+
+#### Metadata (used for search, rendering)
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

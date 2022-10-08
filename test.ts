@@ -1,1 +1,1 @@
-// tests gaan hier; deze zal niet worden gecompileerd wanneer dit pakket wordt gebruikt als extensie.
+// tests go here; this will not be compiled when this package is used as an extension.
